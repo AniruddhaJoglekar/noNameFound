@@ -1,6 +1,10 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
 
 #pragma once
 
-#include "Engine.h"
+// This file is the private precompiled header for your game.
+// You must include it first in each .cpp file.
+//
+// Place any includes here that are needed by the majority of your .cpp files
 
+#include "EngineMinimal.h"

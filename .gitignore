@@ -1,9 +1,10 @@
 *.opendb
-Pre Production/ScardyCat/ScardyCat.VC.db
+*.suo
+*.db
+*.sln
+*.sdf
 Pre Production/ScardyCat/Binaries/
 Pre Production/ScardyCat/DerivedDataCache/
 Pre Production/ScardyCat/Intermediate/
 Pre Production/ScardyCat/Saved/
-Pre Production/ScardyCat/*.sln
-Pre Production/ScardyCat/*.sdf
-Pre Production/ScardyCat/*.suo
+
